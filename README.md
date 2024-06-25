@@ -1,6 +1,4 @@
-### 🚀 Excited to Share My Latest Project: Pizza Sales Analysis Dashboard! 🍕📊
-
-I'm thrilled to present the interactive and responsive Power BI dashboard I created during the recent Data Analytics Bootcamp! This project showcases various aspects of pizza sales, offering insightful visualizations and key metrics. Here’s what you can explore:
+This repository contains all the files and resources for the Pizza Sales Analysis Dashboard project created using Power BI. The dashboard provides an in-depth analysis of pizza sales over the year 2015.
 
 - **Order Date Range**: Filter data from January 1st to December 31st, 2015, to analyze sales performance over different periods.
 
